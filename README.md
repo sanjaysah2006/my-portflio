@@ -1,5 +1,3 @@
-Here’s a professional **README.md** you can use for your portfolio project that will be live at **[www.sahsanjay2006.com.np](http://www.sahsanjay2006.com.np)**. It highlights your skills, projects, and purpose clearly:
-
 ```markdown
 # 🌐 Sanjay Kumar Sah - Portfolio
 
