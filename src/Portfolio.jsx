@@ -6,7 +6,7 @@ const NAV_LINKS = ["About", "Projects", "Skills", "Education", "Achievements", "
 const PROJECTS = [
   {
     title: "Campus Sync",
-    tech: ["Django REST", "React", "TypeScript", "PostgreSQL", "Tailwind CSS", "JWT"],
+    tech: ["Django ", "REST", "React", "TypeScript", "PostgreSQL", "Tailwind CSS", "JWT"],
     desc: "A full-stack campus management platform with role-based access, club and event workflows, live messaging, smart search, and an admin dashboard.",
     live: "https://campus-project-eight.vercel.app/",
     api: "https://campus-sync-rjbz.onrender.com/api/",
@@ -35,7 +35,7 @@ const PROJECTS = [
 
 const SKILLS = {
   Languages: ["Python", "Java", "JavaScript", "TypeScript", "SQL", "HTML", "CSS"],
-  Frameworks: ["Django", "Django REST", "React", "Tailwind CSS"],
+  Frameworks: ["Django", "REST", "React", "Tailwind CSS"],
   Tools: ["MySQL", "PostgreSQL", "Git", "Cloudinary", "JWT", "OpenCV", "MediaPipe", "Unity"],
   Certifications: [
     "Oracle Cloud Infrastructure 2025 AI Foundations Associate",
@@ -85,8 +85,8 @@ const ACHIEVEMENTS = [
 const QUICK_FACTS = [
   { label: "Based In", value: "Mullana, Haryana" },
   { label: "Origin", value: "Nepal" },
-  { label: "Degree", value: "B.E. Computer Engineering" },
-  { label: "CGPA", value: "87.75%" },
+  { label: "Degree", value: "B.Tech Computer Science Engineering" },
+  { label: "CGPA", value: "8.015" },
 ];
 
 const HIGHLIGHTS = [
@@ -98,7 +98,7 @@ const HIGHLIGHTS = [
 const EDUCATION = [
   {
     period: "2023 - Present",
-    title: "B.E. in Computer Engineering",
+    title: "B.Tech in Computer Science Engineering",
     institution: "Maharishi Markandeshwar (Deemed to be University), Mullana",
     detail: "Focused on software engineering, databases, object-oriented programming, and practical full-stack product development.",
     meta: "CGPA: 8.0",
