@@ -86,7 +86,7 @@ const QUICK_FACTS = [
   { label: "Based In", value: "Mullana, Haryana" },
   { label: "Origin", value: "Nepal" },
   { label: "Degree", value: "B.Tech Computer Science Engineering" },
-  { label: "CGPA", value: "8.015" },
+  { label: "CGPA", value: "8.0" },
 ];
 
 const HIGHLIGHTS = [
