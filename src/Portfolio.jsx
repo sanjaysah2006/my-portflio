@@ -267,7 +267,7 @@ export default function Portfolio() {
               <a href="mailto:Sahsanjay2006@gmail.com" className="pf-btn pf-btn-primary">
                 Start a conversation
               </a>
-              <a href="/Resume.pdf" download className="pf-btn pf-btn-primary">
+              <a href="/ProfessionalResume.pdf" download className="pf-btn pf-btn-primary">
                 Download resume
               </a>
               <a href="https://www.linkedin.com/in/sanjay-kumar-sah-52b392294" target="_blank" rel="noreferrer" className="pf-btn pf-btn-primary">
@@ -448,10 +448,10 @@ export default function Portfolio() {
               </p>
             </div>
             <div className="pf-resume-actions">
-              <a href="/Resume.pdf" download className="pf-btn pf-btn-primary">
+              <a href="/ProfessionalResume.pdf" download className="pf-btn pf-btn-primary">
                 Download PDF
               </a>
-              <a href="/Resume.pdf" target="_blank" rel="noreferrer" className="pf-btn pf-btn-secondary">
+              <a href="/ProfessionalResume.pdf" target="_blank" rel="noreferrer" className="pf-btn pf-btn-secondary">
                 Open in browser
               </a>
             </div>
