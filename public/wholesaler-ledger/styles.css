@@ -242,3 +242,33 @@ footer { padding: 28px 0; border-top: 1px solid var(--line); background: var(--p
   .policy-section { break-inside: avoid; }
   body { background: #fff; }
 }
+.app-download {
+  padding: 32px 20px;
+  text-align: center;
+}
+
+.download-button {
+  display: inline-block;
+  margin: 12px;
+  padding: 14px 24px;
+  border-radius: 10px;
+  color: #ffffff;
+  background: #1565c0;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.download-button:hover {
+  background: #0d47a1;
+}
+
+.checksum-link {
+  display: block;
+  margin-top: 8px;
+}
+
+.installation-note {
+  margin-top: 16px;
+  color: #555555;
+  font-size: 14px;
+}
