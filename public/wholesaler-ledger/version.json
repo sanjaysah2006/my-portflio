@@ -1,0 +1,16 @@
+{
+  "versionName": "2.2.1",
+  "versionCode": 5,
+  "minimumVersionCode": 4,
+  "forceUpdate": false,
+  "showForTesting": true,
+  "title": "Wholesaler Ledger update available",
+  "message": "A newer version is available. Download it from the official Wholesaler Ledger website.",
+  "apkUrl": "https://www.sahsanjay2006.com.np/wholesaler-ledger/downloads/Wholesaler-Ledger-v1.0.0.apk",
+  "releaseNotes": [
+    "Added automatic website release checks",
+    "Added India and Nepal payment options",
+    "Added selectable NPR and INR currency display",
+    "Added multi-select deletion for wholesalers and transactions"
+  ]
+}
