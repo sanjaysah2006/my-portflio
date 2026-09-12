@@ -1,18 +1,18 @@
 {
-    "versionName":  "2.2.4",
-    "versionCode":  8,
-    "minimumVersionCode":  4,
-    "forceUpdate":  false,
-    "title":  "Wholesaler Ledger update available",
-    "message":  "Version 2.2.4 is available with a 5-day free trial and improved access timer.",
-    "apkUrl":  "https://www.sahsanjay2006.com.np/wholesaler-ledger/downloads/Wholesaler-Ledger-v1.0.0.apk",
-    "releaseDate":  "2026-09-12",
-    "freeTrialDays":  5,
-    "releaseNotes":  [
-                         "Added a 5-day free trial for new users",
-                         "Access timer is always shown in Settings",
-                         "Access timer appears on Home when less than 24 hours remain",
-                         "Timer is displayed inside the screen without covering content",
-                         "Added administrator-only subscription approval"
-                     ]
+  "versionName": "2.2.5",
+  "versionCode": 9,
+  "minimumVersionCode": 9,
+  "forceUpdate": true,
+  "title": "Mandatory update required",
+  "message": "A new version of Wholesaler Ledger is available. Update the app to continue.",
+  "apkUrl": "https://www.sahsanjay2006.com.np/wholesaler-ledger/downloads/Wholesaler-Ledger-v1.0.0.apk",
+  "releaseDate": "2026-09-12",
+  "freeTrialDays": 5,
+  "releaseNotes": [
+    "Added mandatory updates for all older app versions",
+    "Added a full-screen update requirement",
+    "Added a 5-day free trial",
+    "Improved the access timer layout",
+    "Added administrator subscription approval"
+  ]
 }
