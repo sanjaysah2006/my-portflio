@@ -1,4 +1,4 @@
-﻿{
+{
     "versionName":  "2.2.4",
     "versionCode":  8,
     "minimumVersionCode":  4,
@@ -13,8 +13,6 @@
                          "Access timer is always shown in Settings",
                          "Access timer appears on Home when less than 24 hours remain",
                          "Timer is displayed inside the screen without covering content",
-                         "Added administrator-only subscription approval",
-                         "Added automatic three-month subscription expiry",
-                         "Works with the Firebase Spark free plan"
+                         "Added administrator-only subscription approval"
                      ]
 }
