@@ -1,16 +1,17 @@
 {
-  "versionName": "2.2.1",
-  "versionCode": 5,
-  "minimumVersionCode": 4,
-  "forceUpdate": false,
-  "showForTesting": true,
-  "title": "Wholesaler Ledger update available",
-  "message": "A newer version is available. Download it from the official Wholesaler Ledger website.",
-  "apkUrl": "https://www.sahsanjay2006.com.np/wholesaler-ledger/downloads/Wholesaler-Ledger-v1.0.0.apk",
-  "releaseNotes": [
-    "Added automatic website release checks",
-    "Added India and Nepal payment options",
-    "Added selectable NPR and INR currency display",
-    "Added multi-select deletion for wholesalers and transactions"
-  ]
+    "versionName":  "2.2.3",
+    "versionCode":  7,
+    "minimumVersionCode":  4,
+    "forceUpdate":  false,
+    "title":  "Wholesaler Ledger update available",
+    "message":  "Version 2.2.3 adds faster and more reliable subscription activation.",
+    "apkUrl":  "https://www.sahsanjay2006.com.np/wholesaler-ledger/downloads/Wholesaler-Ledger-v1.0.0.apk",
+    "releaseNotes":  [
+                         "Added an administrator-only subscription approval console",
+                         "Added Nepal NPR 100 and India INR 69 approval options",
+                         "Automatically creates three-month subscription expiry dates",
+                         "Early renewal adds three months after the existing expiry",
+                         "Added subscription approval audit records",
+                         "Works with the Firebase Spark free plan"
+                     ]
 }
