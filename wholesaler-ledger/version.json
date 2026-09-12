@@ -1,17 +1,20 @@
-{
-    "versionName":  "2.2.3",
-    "versionCode":  7,
+﻿{
+    "versionName":  "2.2.4",
+    "versionCode":  8,
     "minimumVersionCode":  4,
     "forceUpdate":  false,
     "title":  "Wholesaler Ledger update available",
-    "message":  "Version 2.2.3 adds faster and more reliable subscription activation.",
+    "message":  "Version 2.2.4 is available with a 5-day free trial and improved access timer.",
     "apkUrl":  "https://www.sahsanjay2006.com.np/wholesaler-ledger/downloads/Wholesaler-Ledger-v1.0.0.apk",
+    "releaseDate":  "2026-09-12",
+    "freeTrialDays":  5,
     "releaseNotes":  [
-                         "Added an administrator-only subscription approval console",
-                         "Added Nepal NPR 100 and India INR 69 approval options",
-                         "Automatically creates three-month subscription expiry dates",
-                         "Early renewal adds three months after the existing expiry",
-                         "Added subscription approval audit records",
+                         "Added a 5-day free trial for new users",
+                         "Access timer is always shown in Settings",
+                         "Access timer appears on Home when less than 24 hours remain",
+                         "Timer is displayed inside the screen without covering content",
+                         "Added administrator-only subscription approval",
+                         "Added automatic three-month subscription expiry",
                          "Works with the Firebase Spark free plan"
                      ]
 }
